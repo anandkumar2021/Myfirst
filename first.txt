@@ -1,2 +1,4 @@
 this is my version 1 project 
 
+hi
+hello
